@@ -1,4 +1,4 @@
-# 🏢 Cisco Lab: OSPF Single-Area Enterprise Network — Project 117
+# 🏢 Cisco Lab: OSPF Single-Area Enterprise Network
 
 > **Tools:** Cisco Packet Tracer · OSPF Area 0 · Router-on-a-Stick · VLANs · DHCP Server · HTTP Server · DNS Server · IT-ROOM · SERVER-ROOM · Multi-Router Topology
 
